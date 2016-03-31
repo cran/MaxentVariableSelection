@@ -3,8 +3,8 @@ Type: Package
 Title: Selecting the Best Set of Relevant Environmental Variables along
         with the Optimal Regularization Multiplier for Maxent Niche
         Modeling
-Version: 1.0-0
-Date: 2015-09-22
+Version: 1.0-1
+Date: 2016-03-31
 Author: Alexander Jueterbock
 Maintainer: "Alexander Jueterbock" <Alexander-Jueterbock@web.de>
 Description: Complex niche models show low performance in identifying
@@ -17,7 +17,7 @@ Description: Complex niche models show low performance in identifying
     models (assessed by information criteria, such as AICc (Akaike, 1974) ,
     and by the area under the receiver operating characteristic (AUC)
     (Fielding and Bell, 1997). Users of this package should be familiar with
-    Maxent niche modelling. 
+    Maxent niche modelling.
 License: GPL (>= 2)
 Imports: ggplot2, raster
 Depends: R (>= 3.1.2)
@@ -25,7 +25,8 @@ Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 SystemRequirements: maxent.jar file
 LazyData: true
-Packaged: 2015-09-22 19:30:54 UTC; alj
+Packaged: 2016-03-31 14:28:50 UTC; alj
+RoxygenNote: 5.0.1
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2015-09-23 02:40:36
+Date/Publication: 2016-03-31 17:38:35

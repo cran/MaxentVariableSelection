@@ -20,8 +20,8 @@ Maxent niche modelling.}
 \tabular{ll}{
 Package: \tab MaxentVariableSelection\cr
 Type: \tab Package\cr
-Version: \tab 1.0-0\cr
-Date: \tab 2015-09-22\cr
+Version: \tab 1.0-1\cr
+Date: \tab 2016-03-31\cr
 Depends: \tab R (>= 3.1.2)\cr
 Imports: \tab ggplot2, raster\cr
 Suggests: \tab knitr, rmarkdown\cr
@@ -62,12 +62,10 @@ Alexander Jueterbock
 
 Maintainer: Alexander Jueterbock, <Alexander-Jueterbock@web.de> }
 
-%% \section{Citation}{To cite the package 'MaxentVariableSelection' in publications use:\cr\cr
-%% Jueterbock A, Smolina I, Coyer JA and  Hoarau, G (2015)\cr
-%% The fate of the Arctic seaweed Fucus distichus under climate change:\cr
-%% an ecological niche modelling approach\cr
-%% \emph{Journal of Biogeography}\cr
-%% \bold{submitted}
-%% }
+\section{Citation}{To cite the package 'MaxentVariableSelection' in publications use:\cr\cr
+Jueterbock A, Smolina I, Coyer JA and  Hoarau, G (2016)\cr
+The fate of the Arctic seaweed Fucus distichus under climate change:\cr
+an ecological niche modelling approach\cr
+\emph{Ecology and Evolution} \bold{6}(6), 1712-1724}
 
 \keyword{package}

@@ -1,0 +1,15 @@
+citHeader("To cite the package 'MaxentVariableSelection' in publications use:")
+citEntry(entry="article",
+title = "The fate of the Arctic seaweed Fucus distichus under climate change: an ecological niche modeling approach",
+journal = "Ecology and Evolution",
+author = personList(
+as.person("Alexander Jueterbock"),
+as.person("Irina Smolina"),
+as.person("James A Coyer"),
+as.person("Galice Hoarau")),
+year = "2016",
+volume = "6",
+number = "6",
+pages = "1712-1724",
+publisher = "Wiley-Blackwell",
+textVersion = "Gerlach, G., Jueterbock, A., Kraemer, P., Deppermann, J. and Harmand, P. (2010). Calculations of population differentiation based on G(ST) and D: forget G(ST) but not all of statistics! Molecular Ecology 19: 3845-3852.")

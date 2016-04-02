@@ -3,8 +3,8 @@ Type: Package
 Title: Selecting the Best Set of Relevant Environmental Variables along
         with the Optimal Regularization Multiplier for Maxent Niche
         Modeling
-Version: 1.0-1
-Date: 2016-03-31
+Version: 1.0-2
+Date: 2016-04-02
 Author: Alexander Jueterbock
 Maintainer: "Alexander Jueterbock" <Alexander-Jueterbock@web.de>
 Description: Complex niche models show low performance in identifying
@@ -25,8 +25,8 @@ Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 SystemRequirements: maxent.jar file
 LazyData: true
-Packaged: 2016-03-31 14:28:50 UTC; alj
+Packaged: 2016-04-02 19:13:18 UTC; alj
 RoxygenNote: 5.0.1
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2016-03-31 17:38:35
+Date/Publication: 2016-04-02 23:31:35

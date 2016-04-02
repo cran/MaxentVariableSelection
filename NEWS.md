@@ -1,3 +1,6 @@
+# MaxentVariableSelection v1.0-2
+Corrected text version of package citation
+
 # MaxentVariableSelection v1.0-1
 
 Updated the citation of the 'MaxentVariableSelection' to

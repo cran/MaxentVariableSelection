@@ -46,18 +46,18 @@ head(occurrencelocations)
 #  occurrencelocations, backgroundlocations, additionalargs,
 #  contributionthreshold, correlationthreshold, betamultiplier)
 
-## ------------------------------------------------------------------------
-maxent <- ("/home/alj/Downloads/maxent.jar")
-
+## ---- eval=FALSE---------------------------------------------------------
+#  maxent <- ("/home/alj/Downloads/maxent.jar")
+#  
 
 ## ---- eval=FALSE---------------------------------------------------------
 #  maxent <- ("C:/.../maxent.jar")
 
-## ------------------------------------------------------------------------
-outdir <- ("/home/alj/Downloads/OutputDirectory")
+## ---- eval=FALSE---------------------------------------------------------
+#  outdir <- ("/home/alj/Downloads/OutputDirectory")
 
-## ------------------------------------------------------------------------
-gridfolder <- ("/home/alj/Downloads/BioORACLEVariables")
+## ---- eval=FALSE---------------------------------------------------------
+#  gridfolder <- ("/home/alj/Downloads/BioORACLEVariables")
 
 ## ------------------------------------------------------------------------
 occurrencelocations <- system.file("extdata", "Occurrencedata.csv",
